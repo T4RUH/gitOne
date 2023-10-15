@@ -1,2 +1,2 @@
-# gitOne
-desafio de projeto git github da dio 
+# Primeiro repositorio remoto
+desafio de projeto git github da Dio 
